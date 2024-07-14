@@ -1,0 +1,73 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+.env/
+.venv/
+ENV/
+env/
+venv/
+ENV.bak/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.hypothesis/
+.pytest_cache/
+.pyre/
+.mypy_cache/
+.dmypy.json
+.pytype/
+.pyre/
+.safety/
+bandit.yaml
+Pipfile.lock
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+env/
+ENV.bak/
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+
+# Shell script
+*.sh.swp
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Batch (cmd)
+*.bat
+*.cmd
+
+# Miscellaneous
+*.swp
+*~
+.DS_Store
+Thumbs.db
